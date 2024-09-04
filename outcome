@@ -1,0 +1,12 @@
+Accuracy: 0.6551724137931034
+Classification Report: 
+              precision    recall  f1-score   support
+
+           1       0.76      0.74      0.75        82
+           2       0.42      0.44      0.43        34
+
+    accuracy                           0.66       116
+   macro avg       0.59      0.59      0.59       116
+weighted avg       0.66      0.66      0.66       116
+
+Number of PCA Components Used: 3
